@@ -4,7 +4,7 @@
     "homepage": "https://tinta.cc",
     "license": "MIT",
     "url": "https://github.com/oipoistar/tinta/releases/download/v2.0.1/tinta.exe",
-    "hash": "f932adb4a4b4f9292ef5389b5ee98d7f215801c33e3fba5bf6176669a0c86ee7",
+    "hash": "9dd4f61bbb407b08f78dd75153732798942851420a5cbecd6302b564d875b799",
     "bin": "tinta.exe",
     "checkver": {
         "github": "https://github.com/oipoistar/tinta"
