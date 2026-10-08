@@ -1,15 +1,15 @@
 {
-  "version": "3.7.4",
-  "description": "Fast, lightweight markdown viewer for Windows (native Direct2D, ~2.5 MB, no Electron)",
-  "homepage": "https://tinta.cc",
-  "license": "MIT",
-  "url": "https://github.com/oipoistar/tinta/releases/download/v3.7.4/tinta.exe",
-  "hash": "494eb39d8709ade5222f35ae28e47f4a5a13d6fd6187222d9a98038ace7a7a17",
-  "bin": "tinta.exe",
-  "checkver": {
-    "github": "https://github.com/oipoistar/tinta"
-  },
-  "autoupdate": {
-    "url": "https://github.com/oipoistar/tinta/releases/download/v$version/tinta.exe"
-  }
+    "version": "3.7.5",
+    "description": "Fast, lightweight markdown viewer for Windows (native Direct2D, ~2.5 MB, no Electron)",
+    "homepage": "https://tinta.cc",
+    "license": "MIT",
+    "url": "https://github.com/oipoistar/tinta/releases/download/v3.7.5/tinta.exe",
+    "hash": "e5ac2ddff36e81bddea63e8349f6b8bd4f0660efe7981a4db35890010b747cdd",
+    "bin": "tinta.exe",
+    "checkver": {
+        "github": "https://github.com/oipoistar/tinta"
+    },
+    "autoupdate": {
+        "url": "https://github.com/oipoistar/tinta/releases/download/v$version/tinta.exe"
+    }
 }
