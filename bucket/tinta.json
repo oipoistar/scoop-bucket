@@ -6,6 +6,12 @@
     "url": "https://github.com/oipoistar/tinta/releases/download/v3.8.0/tinta.exe",
     "hash": "ce7f28afe37c882d16abfc68b2b1f4a78fa2798cb45f9c4eee82280fd48c7e60",
     "bin": "tinta.exe",
+    "shortcuts": [
+        [
+            "tinta.exe",
+            "Tinta"
+        ]
+    ],
     "checkver": {
         "github": "https://github.com/oipoistar/tinta"
     },
